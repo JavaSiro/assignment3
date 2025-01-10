@@ -41,7 +41,22 @@
 #     print(reversed_string)
 # reverse_string(text)
 
+#g
+
 #h
 # def detect():
 #     return max(list(range(1,2001)))
 # print(detect())
+
+#i
+# def detector(age):
+#     return 2025-age
+# clientage=int(input('type ur birth year'))
+# print(detector(clientage))
+
+#j
+# def converter(num):
+#     return abs(num)
+# num = int(input("type negative: "))
+# print(converter(num))
+
