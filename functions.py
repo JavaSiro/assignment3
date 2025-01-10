@@ -60,3 +60,41 @@
 # num = int(input("type negative: "))
 # print(converter(num))
 
+#k
+# def converter(text):
+#     print(text.upper())
+# client=str(input('type: '))
+# converter(client)
+
+#l
+# def a(students, name):
+#     if name in students:
+#         print('isso')
+#     else: print('opso')
+# students=['java', 'fedya', 'mira', 'aziz', 'adam']
+# name=str(input('type name'))
+# a(students, name)
+
+#m
+# def a(students):
+#     updated=[]
+#     for i in students:
+#         if len(i)>5:
+#             updated.append(i)
+#     return updated
+# students=['java', 'fedya', 'mira', 'aziz', 'adam']
+# print(a(students))
+
+#n
+# def count_vowels(text):
+#     vowels = "aeiouAEIOU"
+#     count = 0
+#     for char in text:
+#         if char in vowels:
+#             count += 1
+#     return count
+
+# input_text = input("Enter a string: ")
+# print(f"The number of vowels in the string is: {count_vowels(input_text)}")
+
+#o
