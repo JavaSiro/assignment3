@@ -42,6 +42,10 @@
 # reverse_string(text)
 
 #g
+# def abc(num):
+#     print(chr(num))
+# raqam = int(input("Key num: "))
+# abc(num)
 
 #h
 # def detect():
@@ -98,4 +102,32 @@
 # print(f"The number of vowels in the string is: {count_vowels(input_text)}")
 
 #o
+# def sum(list): return [(data ** 2 + data ** 3) for data in list]
+# def sum(list):
+#     for i in range(0, len(list)):
+#         list[i] = list[i] ** 2 + list[i] ** 3
+#     return list
+
+# list = [1, 2, 0, 4, 5, 6, 7, 8, 9, 10]
+# print(sum(list))
+
 #p
+# def text(list):
+#     max = ""
+#     for i in list:
+#         if len(i) > len(max): max = i
+#     return max
+
+# list = ['java', 'javohir', 'python']
+# print(text(list))
+
+#q
+# def letter(str):
+#     l = len(str)
+#     if l % 2 == 1:
+#         print(str[l // 2])
+#     else: 
+#         print(str[l // 2 - 1] + str[l // 2])
+
+# txt = input("type: ")
+# letter(txt)
