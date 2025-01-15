@@ -54,6 +54,7 @@
 
 #i
 # def detector(age):
+
 #     return 2025-age
 # clientage=int(input('type ur birth year'))
 # print(detector(clientage))
