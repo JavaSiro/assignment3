@@ -1,6 +1,7 @@
 #b
 # class Java:
 #     pass
+
 #c
 # class Transport:
 #     def __init__(self, max_vel, distance):
@@ -11,6 +12,7 @@
 # parameters = Transport(180, 1000)
 # parameters.display()
 #d
+
 # class Transport:
 #     def __init__(self, max_vel, distance):
 #         self.vel = max_vel
